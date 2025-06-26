@@ -119,7 +119,7 @@ As a Business Analyst, I:
 ![Arihan Store Dashboard](https://github.com/divyasinha200/Arihan-Store-Analysis-Dashboard/blob/main/Arihan%20Store%20dashboard.png)
 
 ### Arihan Store Inshight  
-![Arihan Store Insight]()
+![Arihan Store Insight](https://github.com/divyasinha200/Arihan-Store-Analysis-Dashboard/blob/main/Arihan%20Store%20Insights.png)
 
 ---
 
