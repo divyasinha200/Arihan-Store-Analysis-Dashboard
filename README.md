@@ -116,7 +116,7 @@ As a Business Analyst, I:
 ## 📸 Dashboard Previews
 
 ### Finance KPI Dashboard  
-![Finance KPI Dashboard](Arihan Store dashboard.png)
+![Finance KPI Dashboard](****)
 
 ### Actual vs Target Dashboard  
 ![Actual vs Target Dashboard]()
