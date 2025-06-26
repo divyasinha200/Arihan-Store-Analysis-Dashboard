@@ -115,11 +115,11 @@ As a Business Analyst, I:
 
 ## 📸 Dashboard Previews
 
-### Finance KPI Dashboard  
-![Finance KPI Dashboard](****)
+### Arihan Store Dashboard  
+![Arihan Store Dashboard](https://github.com/divyasinha200/Arihan-Store-Analysis-Dashboard/blob/main/Arihan%20Store%20dashboard.png)
 
-### Actual vs Target Dashboard  
-![Actual vs Target Dashboard]()
+### Arihan Store Inshight  
+![Arihan Store Insight]()
 
 ---
 
