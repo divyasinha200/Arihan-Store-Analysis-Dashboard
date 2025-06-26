@@ -113,6 +113,16 @@ As a Business Analyst, I:
 
 ---
 
+## 📸 Dashboard Previews
+
+### Finance KPI Dashboard  
+![Finance KPI Dashboard]()
+
+### Actual vs Target Dashboard  
+![Actual vs Target Dashboard]()
+
+---
+
 ## 🚀 Getting Started
 
 1. Download the Excel dashboard file
