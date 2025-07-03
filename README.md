@@ -1,4 +1,4 @@
-# 🛍️ Arihant Store Sales Analysis Dashboard
+# 🛍️ Arihan Store Sales Analysis Dashboard
 
 An Excel-based dashboard project for analyzing Arihant Store's sales and order trends. The goal was to uncover valuable business insights from raw data and enable better decision-making through clean visualizations.
 
